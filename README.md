@@ -85,9 +85,7 @@ Ensure you have the following installed:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
-## License 📜
-This project is licensed under the MIT License.
 
 ## Contact 📧
-For any queries, contact **your-email@example.com**.
+For any queries, contact **sdandare331@gmail.com**.
 
