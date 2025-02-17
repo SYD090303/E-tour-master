@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# E-tour-master
+# E-Tour ✈️🌍
 ![HomePage](/Photos/HomePage.png)
 =======
-# E-Tour ✈️🌍
+
 
 ## Overview
 E-Tour is a B2C web application developed to facilitate group tour operators managing **international, domestic, and event-based tours**. The system allows users to **browse, search, view, and book tours**, offering a streamlined and flexible experience.
